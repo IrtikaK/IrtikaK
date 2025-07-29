@@ -1,6 +1,6 @@
 # Hi there, I'm Irtika Khan 👋
 
-### AI Researcher | Data Scientist | MSc Artificial Intelligence Technology
+
 
 🔭 Currently advancing expertise in machine learning, time series forecasting, NLP, and scalable data solutions for impactful real-world problems.
 
